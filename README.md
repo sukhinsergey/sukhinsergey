@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, I am Sergey 👋
+Currently work as a project manager, but here I am share my personal projects in analytics.
+I am passionate about product analytics and focus mostly on:
+- Data exploration
+- Analysis of metrics in e-commerce
+- A/B tests
 
 <!--
 **sukhinsergey/sukhinsergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+In my free time I do sports, travel and cook.
+### My stack: Python, Pandas, Numpy, Seaborn, Scipi, SQL
