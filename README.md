@@ -1,9 +1,10 @@
 ### Hello, I am Sergey 👋
-Currently work as a project manager, but here I am share my personal projects in analytics.
-I am passionate about product analytics and focus mostly on:
+Currently work as a project manager where I am responsible for smooth product development pipeline and performance improvements.
+This drives me to expand in the sphere of data and product analytics where my passion is.
+I mostly focus on:
 - Data exploration
 - Analysis of metrics in e-commerce
-- A/B tests
+- A/B tests and hypothesis verification
 
 <!--
 **sukhinsergey/sukhinsergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +22,3 @@ Here are some ideas to get you started:
 -->
 In my free time I do sports, travel and cook.
 ### Languages and tools: Python, Pandas, Numpy, Seaborn, Scipi, SQL, AirFlow, Git
-
