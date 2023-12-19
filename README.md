@@ -36,7 +36,7 @@ In my free time I do sports, travel and cook.
 <img src="https://github.com/sukhinsergey/sukhinsergey/assets/61851042/e7c96a48-a473-4af9-a423-584d031551de" width="30" />
 
 <div id="badges">
-  <a href="https://www.linkedin.com/sergey-sukhin-29b7b2113" target="_blank">
+  <a href="https://www.linkedin.com/in/sergey-sukhin-29b7b2113" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/sukhin" target="_blank">
