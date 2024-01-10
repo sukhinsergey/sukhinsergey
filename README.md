@@ -1,6 +1,6 @@
 ### Hello, I am Sergey 👋
-Currently work as a project manager where I am responsible for smooth product development pipeline and performance improvements.
-This drives me to expand in the sphere of data and product analytics where my passion is.
+I am a product analyst with background in project management. I am responsible for smooth product development pipeline and performance improvements.
+This drives me to expand in the sphere of data and product analytics and develop as an expert.
 I mostly focus on:
 - Data exploration
 - Analysis of metrics in e-commerce
