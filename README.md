@@ -1,10 +1,10 @@
 ### Hello, I am Sergey 👋
-I am a product analyst with background in project management. I am responsible for smooth product development pipeline and performance improvements.
+I am a supply chain specialist with background in project management. I am responsible for forecasting, planning and smooth product development pipeline.
 This drives me to expand in the sphere of data and product analytics and develop as an expert.
 I mostly focus on:
 - Data exploration
 - Analysis of metrics in e-commerce
-- A/B tests and hypothesis verification
+- Forecasting and cleaning of data
 
 <!--
 **sukhinsergey/sukhinsergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
